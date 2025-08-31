@@ -1,6 +1,6 @@
 Hello everyone, I'm @JeanSimong – nice to meet you!
 I’m passionate about creating positive and collaborative work environments.
-Currently learning: PHP, JavaScript, Vue.js, Sass, Tailwind CSS, Bootstrap, WordPress, and more.
+Currently learning: PHP, Laravel JavaScript, Vue.js, Sass, Tailwind CSS, Bootstrap, WordPress, and more.
 I'm actively building my skills in web design and development.
 I’m open to collaboration on web projects and looking to connect with fellow developers.
 Based in the Greater Montreal area – seeking internship or job opportunities.
